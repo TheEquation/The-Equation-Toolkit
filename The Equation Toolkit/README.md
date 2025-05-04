@@ -1,29 +1,4 @@
-<h1 align="center"> L0p4 Toolkit </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/issues/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=red">
-  <img src="https://img.shields.io/github/license/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=blue">
-  <br><br>
-  <img src="https://img.shields.io/badge/Author-HaxL0p4-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
-
-<p align="center"><b>Multi-Tool offensive kit for Hackers</b></p>
-<p align="center">
-  <img src="https://github.com/HaxL0p4/L0p4-Framework/blob/main/img/L0p4-Toolkit.png">
-</p>
-
----
-
-<p align="center">
-  <code>L0p4 Toolkit</code> is a powerful and comprehensive hacking toolset designed for hackers and penetration testing and security assessments. It includes advanced tools for web hacking (SQLi, XSS), network scanning, remote access, wireless network analysis, DoS attacks, IP geolocation, CCTV camera access, OSINT and phishing. 
-</p>
-
----
 
 ### [+] Features
 
@@ -63,24 +38,3 @@
  - **Credentials Phishing**: Using PyPhisher Tool
 
 
----
-### [+] Installation
-
-The installation process for L0p4 Framework is simple and straightforward. Follow the steps below to install and run the framework on your system.
-
-#### ⚙️ **Linux / macOS Installation**
-
-1. **Clone the Repository**:
-   First, clone the repository to your local machine using `git`:
-
-   ```bash
-   git clone [https://github.com/HaxL0p4/L0p4-Framework.git](https://github.com/HaxL0p4/L0p4-Toolkit.git)
-   cd L0p4-Toolkit
-   pip install -r requirements.txt --break-system-packages
-   python3 main.py
-
----
-
-<h1 align="center">⚠️ Under Development ⚠️</h1>
-
-The L0p4 Framework is still under active development. Features are constantly being added and improved. Please be patient and use the tool's update option to keep it up to date.
